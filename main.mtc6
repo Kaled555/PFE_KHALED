@@ -1,0 +1,19 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {4.}1}Architecture Globale du Système}{\reset@font\mtcSfont 37}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.1.4}\else \textLR {4.1.1}\fi }Vue en couches}{\reset@font\mtcSSfont 37}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.1.4}\else \textLR {4.1.2}\fi }Justification des choix architecturaux}{\reset@font\mtcSSfont 38}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {4.}2}Modélisation Détaillée des Composants}{\reset@font\mtcSfont 41}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.2.4}\else \textLR {4.2.1}\fi }Diagramme de classes}{\reset@font\mtcSSfont 41}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.2.4}\else \textLR {4.2.2}\fi }Diagramme de séquence}{\reset@font\mtcSSfont 43}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {4.}3}Architecture de Sécurité}{\reset@font\mtcSfont 45}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.3.4}\else \textLR {4.3.1}\fi }Chiffrement des communications}{\reset@font\mtcSSfont 46}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.3.4}\else \textLR {4.3.2}\fi }Authentification multi-facteurs (MFA)}{\reset@font\mtcSSfont 47}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.3.4}\else \textLR {4.3.3}\fi }Contrôle d'accès basé sur les rôles (RBAC)}{\reset@font\mtcSSfont 47}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {4.3.4}\else \textLR {4.3.4}\fi }Conformité RGPD dans la conception}{\reset@font\mtcSSfont 48}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {5.3.4}\else \textLR {4.3.5}\fi }Analyse des menaces — Modèle STRIDE}{\reset@font\mtcSSfont 48}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {6.3.4}\else \textLR {4.3.6}\fi }Principes de Sécurité par Conception}{\reset@font\mtcSSfont 49}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {7.3.4}\else \textLR {4.3.7}\fi }Tests de Sécurité}{\reset@font\mtcSSfont 49}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {8.3.4}\else \textLR {4.3.8}\fi }Conformité RGPD — Articles adressés}{\reset@font\mtcSSfont 49}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {4.}4}Architecture de Déploiement}{\reset@font\mtcSfont 50}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.4.4}\else \textLR {4.4.1}\fi }Conteneurisation avec Docker}{\reset@font\mtcSSfont 50}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.4.4}\else \textLR {4.4.2}\fi }Infrastructure OVHcloud}{\reset@font\mtcSSfont 51}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.4.4}\else \textLR {4.4.3}\fi }Pipeline CI/CD}{\reset@font\mtcSSfont 51}{}}

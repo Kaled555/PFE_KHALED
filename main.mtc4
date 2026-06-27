@@ -1,0 +1,21 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {2.}1}Concepts Fondamentaux de la Cybersécurité}{\reset@font\mtcSfont 11}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.1.2}\else \textLR {2.1.1}\fi }La triade CIA}{\reset@font\mtcSSfont 11}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.1.2}\else \textLR {2.1.2}\fi }Chiffrement et protocoles sécurisés}{\reset@font\mtcSSfont 12}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.1.2}\else \textLR {2.1.3}\fi }Authentification et gestion des identités}{\reset@font\mtcSSfont 12}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {4.1.2}\else \textLR {2.1.4}\fi }Modélisation des menaces — STRIDE}{\reset@font\mtcSSfont 12}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {5.1.2}\else \textLR {2.1.5}\fi }Cadres normatifs de référence}{\reset@font\mtcSSfont 12}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {2.}2}Gestion des Incidents de Sécurité}{\reset@font\mtcSfont 13}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.2.2}\else \textLR {2.2.1}\fi }Cycle de vie d'un incident}{\reset@font\mtcSSfont 13}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.2.2}\else \textLR {2.2.2}\fi }Indicateurs clés — TTD et TTR}{\reset@font\mtcSSfont 13}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.2.2}\else \textLR {2.2.3}\fi }Conformité RGPD et notification des violations}{\reset@font\mtcSSfont 14}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {2.}3}Supervision Réseau}{\reset@font\mtcSfont 14}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.3.2}\else \textLR {2.3.1}\fi }Définition et enjeux}{\reset@font\mtcSSfont 14}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.3.2}\else \textLR {2.3.2}\fi }Protocoles et technologies de supervision}{\reset@font\mtcSSfont 14}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.3.2}\else \textLR {2.3.3}\fi }Supervision dans les architectures conteneurisées}{\reset@font\mtcSSfont 14}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {2.}4}Intelligence Artificielle Conversationnelle}{\reset@font\mtcSfont 15}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.4.2}\else \textLR {2.4.1}\fi }Traitement du Langage Naturel (NLP)}{\reset@font\mtcSSfont 15}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.4.2}\else \textLR {2.4.2}\fi }Chatbots et assistants intelligents}{\reset@font\mtcSSfont 15}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.4.2}\else \textLR {2.4.3}\fi }Agent de traduction multilingue}{\reset@font\mtcSSfont 16}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {2.}5}SOC et SIEM — Perspectives de sécurité opérationnelle}{\reset@font\mtcSfont 16}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.5.2}\else \textLR {2.5.1}\fi }Security Operations Center (SOC)}{\reset@font\mtcSSfont 16}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.5.2}\else \textLR {2.5.2}\fi }SIEM — Security Information and Event Management}{\reset@font\mtcSSfont 17}{}}

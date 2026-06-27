@@ -1,0 +1,3398 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.11)  27 JUN 2026 03:11
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(tpl/isipfe.cls
+
+LaTeX Warning: You have requested document class `./tpl/isipfe',
+               but the document class provides `isipfe'.
+
+Document Class: isipfe 15/04/2016 ISI PFE LaTeX Class
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
+File: bk11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@chapter=\count276
+\c@section=\count277
+\c@subsection=\count278
+\c@subsubsection=\count279
+\c@paragraph=\count280
+\c@subparagraph=\count281
+\c@figure=\count282
+\c@table=\count283
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count284
+\Gm@cntv=\count285
+\c@Gm@tempcnt=\count286
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks18
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen157
+\ttl@minus=\dimen158
+\ttl@toksa=\toks19
+\titlewidth=\dimen159
+\titlewidthlast=\dimen160
+\titlewidthfirst=\dimen161
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip53
+\f@nch@offset@elh=\skip54
+\f@nch@offset@erh=\skip55
+\f@nch@offset@olh=\skip56
+\f@nch@offset@orh=\skip57
+\f@nch@offset@elf=\skip58
+\f@nch@offset@erf=\skip59
+\f@nch@offset@olf=\skip60
+\f@nch@offset@orf=\skip61
+\f@nch@height=\skip62
+\f@nch@footalignment=\skip63
+\f@nch@widthL=\skip64
+\f@nch@widthC=\skip65
+\f@nch@widthR=\skip66
+\@temptokenb=\toks20
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks21
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count287
+)
+\MT@toks=\toks24
+\MT@tempbox=\box54
+\MT@count=\count288
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
+LaTeX Info: Redefining \leftprotrusion on input line 1085.
+\MT@prot@toks=\toks25
+LaTeX Info: Redefining \rightprotrusion on input line 1104.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen162
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count289
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdft
+ex.def
+File: microtype-pdftex.def 2026/03/01 v3.2d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip67
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
+TeX and XeLaTeX
+\babel@savecnt=\count290
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2068.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2070.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2072.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2073.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2074.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2076.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2101.
+\U@D=\dimen163
+\l@unhyphenated=\language79
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count291
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4196.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-
+english.tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/ar\babel-
+arabic.tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel-
+french.tex)
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 4320.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ld
+f
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)
+Package babel Info: Importing font and identification data for arabic
+(babel)             from babel-ar.ini. Reported on input line 4320.
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/arabi\arabic.ldf
+File: arabic.ldf 
+Language: arabic 2006/01/01 v0.1 Arabic support for the babel system
+
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language 'Arabic' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 35.
+
+Package babel Info: Hyphen rules for 'arabic' set to \l@english
+(babel)             (\language0). Reported on input line 36.
+Loading the definitions for the LaTeX{} Arabic encoding
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/arabi\laeenc.def
+File: laeenc.def 2006/01/01 v0.1 Local Arabic font encoding (test version: may 
+change)
+Now handling font encoding LAE ...
+... processing UTF-8 mapping file for font encoding LAE
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/arabi\laeenc.dfu
+File: laeenc.dfu 2006/01/01 v1.0 UTF-8 support for Arabic and Farsi for use wit
+h inputenc
+   defining Unicode char U+066A (decimal 1642)
+   defining Unicode char U+060C (decimal 1548)
+   defining Unicode char U+0660 (decimal 1632)
+   defining Unicode char U+0661 (decimal 1633)
+   defining Unicode char U+0662 (decimal 1634)
+   defining Unicode char U+0663 (decimal 1635)
+   defining Unicode char U+0664 (decimal 1636)
+   defining Unicode char U+0665 (decimal 1637)
+   defining Unicode char U+0666 (decimal 1638)
+   defining Unicode char U+0667 (decimal 1639)
+   defining Unicode char U+0668 (decimal 1640)
+   defining Unicode char U+0669 (decimal 1641)
+   defining Unicode char U+061B (decimal 1563)
+   defining Unicode char U+061F (decimal 1567)
+   defining Unicode char U+0621 (decimal 1569)
+   defining Unicode char U+0622 (decimal 1570)
+   defining Unicode char U+0623 (decimal 1571)
+   defining Unicode char U+0624 (decimal 1572)
+   defining Unicode char U+0625 (decimal 1573)
+   defining Unicode char U+0626 (decimal 1574)
+   defining Unicode char U+0627 (decimal 1575)
+   defining Unicode char U+0628 (decimal 1576)
+   defining Unicode char U+0629 (decimal 1577)
+   defining Unicode char U+062A (decimal 1578)
+   defining Unicode char U+062B (decimal 1579)
+   defining Unicode char U+062C (decimal 1580)
+   defining Unicode char U+062D (decimal 1581)
+   defining Unicode char U+062E (decimal 1582)
+   defining Unicode char U+062F (decimal 1583)
+   defining Unicode char U+0630 (decimal 1584)
+   defining Unicode char U+0631 (decimal 1585)
+   defining Unicode char U+0632 (decimal 1586)
+   defining Unicode char U+0633 (decimal 1587)
+   defining Unicode char U+0634 (decimal 1588)
+   defining Unicode char U+0635 (decimal 1589)
+   defining Unicode char U+0636 (decimal 1590)
+   defining Unicode char U+0637 (decimal 1591)
+   defining Unicode char U+0638 (decimal 1592)
+   defining Unicode char U+0639 (decimal 1593)
+   defining Unicode char U+063A (decimal 1594)
+   defining Unicode char U+0640 (decimal 1600)
+   defining Unicode char U+0641 (decimal 1601)
+   defining Unicode char U+0642 (decimal 1602)
+   defining Unicode char U+0643 (decimal 1603)
+   defining Unicode char U+0644 (decimal 1604)
+   defining Unicode char U+0645 (decimal 1605)
+   defining Unicode char U+0646 (decimal 1606)
+   defining Unicode char U+0647 (decimal 1607)
+   defining Unicode char U+0648 (decimal 1608)
+   defining Unicode char U+0649 (decimal 1609)
+   defining Unicode char U+064A (decimal 1610)
+   defining Unicode char U+064B (decimal 1611)
+   defining Unicode char U+064C (decimal 1612)
+   defining Unicode char U+064D (decimal 1613)
+   defining Unicode char U+064E (decimal 1614)
+   defining Unicode char U+064F (decimal 1615)
+   defining Unicode char U+0650 (decimal 1616)
+   defining Unicode char U+0651 (decimal 1617)
+   defining Unicode char U+0652 (decimal 1618)
+   defining Unicode char U+067E (decimal 1662)
+   defining Unicode char U+0686 (decimal 1670)
+   defining Unicode char U+0698 (decimal 1688)
+   defining Unicode char U+06A9 (decimal 1705)
+   defining Unicode char U+06AF (decimal 1711)
+   defining Unicode char U+06CC (decimal 1740)
+   defining Unicode char U+06F0 (decimal 1776)
+   defining Unicode char U+06F1 (decimal 1777)
+   defining Unicode char U+06F2 (decimal 1778)
+   defining Unicode char U+06F3 (decimal 1779)
+   defining Unicode char U+06F4 (decimal 1780)
+   defining Unicode char U+06F5 (decimal 1781)
+   defining Unicode char U+06F6 (decimal 1782)
+   defining Unicode char U+06F7 (decimal 1783)
+   defining Unicode char U+06F8 (decimal 1784)
+   defining Unicode char U+06F9 (decimal 1785)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+06D5 (decimal 1749)
+))
+Loading the Common definitions for Arabic and Farsi
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/arabi\arabicore.sty
+  Arabi Core switching commands v1.0  2006/01/01   (may still change)  
+\n@everypar=\toks26
+\@Arabitempboxa=\box55
+\llahheight=\skip68
+\Decimalheight=\skip69
+)
+LaTeX Font Info:    Redeclaring font encoding LAE on input line 144.
+
+Loading the Arabi fonts definitions for Arabic
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/arabi\arabicfnt.sty
+  Arabic font switching commands v1.0  2006/01/01   (may still change)  
+LaTeX Info: Redefining \texttimes on input line 101.
+LaTeX Info: Redefining \times on input line 102.
+LaTeX Info: Redefining \omega on input line 137.
+)
+Loading the Common definitions for Arabic and Farsi
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/arabi\arabnovowel.sty
+File: arabnovowel.sty 2005/09/07 v0.1 Arabic dummy vowel slots when needed
+\ArabiStruthightOFF=\skip70
+\ArabiStrutdepthOFF=\skip71
+\ArabiStruthightON=\skip72
+\ArabiStrutdepthON=\skip73
+LaTeX Font Info:    Trying to load font information for LAE+cmr on input line 1
+33.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/arabi\laecmr.fd
+File: laecmr.fd 2006/01/01 v0.1 LaTeX Arabic default font description (test ver
+sion: may change)
+)
+LaTeX Font Info:    Font shape `LAE/cmr/m/n' will be
+(Font)              scaled to size 13.68748pt on input line 133.
+)
+*************************************
+* Local config file arabic.cfg used
+*
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/arabi\arabic.cfg))
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 4320.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.ld
+f
+Language: french 2025-08-15 v4.0e French support from the babel system
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french3.l
+df
+Language: french 2025-08-15 v3.7e French support from the babel system
+\FB@stdchar=\count292
+Package babel Info: Making : an active character on input line 273.
+Package babel Info: Making ; an active character on input line 274.
+Package babel Info: Making ! an active character on input line 275.
+Package babel Info: Making ? an active character on input line 276.
+\FBguill@level=\count293
+\FBold@everypar=\toks27
+\FB@Mht=\dimen164
+\mc@charclass=\count294
+\mc@charfam=\count295
+\mc@charslot=\count296
+\std@mcc=\count297
+\dec@mcc=\count298
+\FB@pardim=\dimen165
+\listindentFB=\dimen166
+\descindentFB=\dimen167
+\labelindentFB=\dimen168
+\labelwidthFB=\dimen169
+\leftmarginFB=\dimen170
+\parindentFFN=\dimen171
+\FBfnindent=\dimen172
+)))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count299
+\csq@gtype=\count300
+\csq@glevel=\count301
+\csq@qlevel=\count302
+\csq@maxlvl=\count303
+\csq@tshold=\count304
+\csq@ltx@everypar=\toks28
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count305
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count306
+\c@listtotal=\count307
+\c@listcount=\count308
+\c@liststart=\count309
+\c@liststop=\count310
+\c@citecount=\count311
+\c@citetotal=\count312
+\c@multicitecount=\count313
+\c@multicitetotal=\count314
+\c@instcount=\count315
+\c@maxnames=\count316
+\c@minnames=\count317
+\c@maxitems=\count318
+\c@minitems=\count319
+\c@citecounter=\count320
+\c@maxcitecounter=\count321
+\c@savedcitecounter=\count322
+\c@uniquelist=\count323
+\c@uniquename=\count324
+\c@refsection=\count325
+\c@refsegment=\count326
+\c@maxextratitle=\count327
+\c@maxextratitleyear=\count328
+\c@maxextraname=\count329
+\c@maxextradate=\count330
+\c@maxextraalpha=\count331
+\c@abbrvpenalty=\count332
+\c@highnamepenalty=\count333
+\c@lownamepenalty=\count334
+\c@maxparens=\count335
+\c@parenlevel=\count336
+\blx@tempcnta=\count337
+\blx@tempcntb=\count338
+\blx@tempcntc=\count339
+\c@blx@maxsection=\count340
+\blx@maxsegment@0=\count341
+\blx@notetype=\count342
+\blx@parenlevel@text=\count343
+\blx@parenlevel@foot=\count344
+\blx@sectionciteorder@0=\count345
+\blx@sectionciteorderinternal@0=\count346
+\blx@entrysetcounter=\count347
+\blx@biblioinstance=\count348
+\labelnumberwidth=\skip74
+\labelalphawidth=\skip75
+\biblabelsep=\skip76
+\bibitemsep=\skip77
+\bibnamesep=\skip78
+\bibinitsep=\skip79
+\bibparsep=\skip80
+\bibhang=\skip81
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language80
+\c@mincomprange=\count349
+\c@maxcomprange=\count350
+\c@mincompwidth=\count351
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count352
+\c@savedafterword=\count353
+\c@annotator=\count354
+\c@savedannotator=\count355
+\c@author=\count356
+\c@savedauthor=\count357
+\c@bookauthor=\count358
+\c@savedbookauthor=\count359
+\c@commentator=\count360
+\c@savedcommentator=\count361
+\c@editor=\count362
+\c@savededitor=\count363
+\c@editora=\count364
+\c@savededitora=\count365
+\c@editorb=\count366
+\c@savededitorb=\count367
+\c@editorc=\count368
+\c@savededitorc=\count369
+\c@foreword=\count370
+\c@savedforeword=\count371
+\c@holder=\count372
+\c@savedholder=\count373
+\c@introduction=\count374
+\c@savedintroduction=\count375
+\c@namea=\count376
+\c@savednamea=\count377
+\c@nameb=\count378
+\c@savednameb=\count379
+\c@namec=\count380
+\c@savednamec=\count381
+\c@translator=\count382
+\c@savedtranslator=\count383
+\c@shortauthor=\count384
+\c@savedshortauthor=\count385
+\c@shorteditor=\count386
+\c@savedshorteditor=\count387
+\c@labelname=\count388
+\c@savedlabelname=\count389
+\c@institution=\count390
+\c@savedinstitution=\count391
+\c@lista=\count392
+\c@savedlista=\count393
+\c@listb=\count394
+\c@savedlistb=\count395
+\c@listc=\count396
+\c@savedlistc=\count397
+\c@listd=\count398
+\c@savedlistd=\count399
+\c@liste=\count400
+\c@savedliste=\count401
+\c@listf=\count402
+\c@savedlistf=\count403
+\c@location=\count404
+\c@savedlocation=\count405
+\c@organization=\count406
+\c@savedorganization=\count407
+\c@origlocation=\count408
+\c@savedoriglocation=\count409
+\c@origpublisher=\count410
+\c@savedorigpublisher=\count411
+\c@publisher=\count412
+\c@savedpublisher=\count413
+\c@language=\count414
+\c@savedlanguage=\count415
+\c@origlanguage=\count416
+\c@savedoriglanguage=\count417
+\c@pageref=\count418
+\c@savedpageref=\count419
+\shorthandwidth=\skip82
+\shortjournalwidth=\skip83
+\shortserieswidth=\skip84
+\shorttitlewidth=\skip85
+\shortauthorwidth=\skip86
+\shorteditorwidth=\skip87
+\locallabelnumberwidth=\skip88
+\locallabelalphawidth=\skip89
+\localshorthandwidth=\skip90
+\localshortjournalwidth=\skip91
+\localshortserieswidth=\skip92
+\localshorttitlewidth=\skip93
+\localshortauthorwidth=\skip94
+\localshorteditorwidth=\skip95
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-bibtex.def
+File: blx-bibtex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back bibtex backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+\c@textcitecount=\count420
+\c@textcitetotal=\count421
+\c@textcitemaxnames=\count422
+\c@biburlbigbreakpenalty=\count423
+\c@biburlbreakpenalty=\count424
+\c@biburlnumpenalty=\count425
+\c@biburlucpenalty=\count426
+\c@biburllcpenalty=\count427
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count428
+)
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.bbx
+File: ieee.bbx 2025-08-01 v1.4f biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric-com
+p.bbx
+File: numeric-comp.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bb
+x
+File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count429
+\c@bbx:relatedtotal=\count430
+))))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.cbx
+File: ieee.cbx 2025-08-01 v1.4f biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-verb'...
+Package biblatex Info: ... file 'numeric-verb.cbx' found.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-ver
+b.cbx
+File: numeric-verb.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-12-24 L3 programming layer (loader) 
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count431
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2025-12-24 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.
+sty
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
+))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool.sty
+Package: datatool 2025/12/04 v3.4.3 (NLCT)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+Package: tracklang 2025/03/11 v1.6.6 (NLCT) Track Languages
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.te
+x)
+Package tracklang Info: Tracking dialect `english' (language `english') on inpu
+t line 264.
+Package tracklang Info: Tracking dialect `arabic' (language `arabic') on input 
+line 264.
+Package tracklang Info: Tracking dialect `french' (language `french') on input 
+line 264.
+Package tracklang Info: Tracking dialect `french' (language `french') on input 
+line 264.
+Package tracklang Info: Tracking dialect `arabic' (language `arabic') on input 
+line 264.
+Package tracklang Info: Tracking dialect `english' (language `english') on inpu
+t line 264.
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.s
+ty
+Package: datatool-base 2025/12/04 v3.4.3 (NLCT)
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip96
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks29
+\ex@=\dimen173
+))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen174
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count432
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count433
+\leftroot@=\count434
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count435
+\DOTSCASE@=\count436
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen175
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count437
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count438
+\dotsspace@=\muskip22
+\c@parentequation=\count439
+\dspbrk@lvl=\count440
+\tag@help=\toks30
+\row@=\count441
+\column@=\count442
+\maxfields@=\count443
+\andhelp@=\toks31
+\eqnshift@=\dimen176
+\alignsep@=\dimen177
+\tagshift@=\dimen178
+\tagwidth@=\dimen179
+\totwidth@=\dimen180
+\lineht@=\dimen181
+\@envbody=\toks32
+\multlinegap=\skip97
+\multlinetaggap=\skip98
+\mathdisplay@stack=\toks33
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+\l__datatool_tmpa_int=\count444
+\l__datatool_tmpb_int=\count445
+\l__datatool_tmpc_int=\count446
+\l__datatool_tmpd_int=\count447
+\l__datatool_count_int=\count448
+\l__datatool_tmp_datatype_int=\count449
+\l__datatool_tmpa_dim=\dimen182
+\l__datatool_tmpb_dim=\dimen183
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.d
+ef
+File: datatool-l3fp.def 2025/12/04 v3.4.3 (NLCT)
+)
+\@dtl@toks=\toks34
+\@dtl@tmpcount=\count450
+\dtl@tmplength=\skip99
+\l__datatool_measure_box=\box58
+\dtl@sortresult=\count451
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.l
+df
+File: datatool-utf8.ldf 2025/12/04 v3.4.3 (NLCT)
+)
+\@dtl@datatype=\count452
+\c_datatool_unknown_int=\count453
+\l__datatool_year_int=\count454
+\l__datatool_month_int=\count455
+\l__datatool_day_int=\count456
+\l__datatool_hour_int=\count457
+\l__datatool_minute_int=\count458
+\l__datatool_second_int=\count459
+\l__datatool_tzhour_int=\count460
+\l__datatool_tzminute_int=\count461
+\l__datatool_julian_int=\count462
+\l__datatool_local_julian_int=\count463
+\l__datatool_prefix_int=\count464
+\l__datatool_suffix_int=\count465
+\@dtl@foreach@level=\count466
+
+
+Package tracklang Warning: No `datatool' support for dialect `english'  on inpu
+t line 9924.
+
+
+Package tracklang Warning: No `datatool' support for dialect `arabic'  on input
+ line 9924.
+
+
+Package tracklang Warning: No `datatool' support for dialect `french'  on input
+ line 9924.
+
+\dtl@codeA=\count467
+\dtl@codeB=\count468
+)
+\l__datatool_max_cols_int=\count469
+\l__datatool_col_idx_int=\count470
+\l__datatool_row_idx_int=\count471
+\l__datatool_item_type_int=\count472
+\l__datatool_action_column_int=\count473
+\l__datatool_action_column_ii_int=\count474
+\l__datatool_action_row_int=\count475
+\l__datatool_action_row_ii_int=\count476
+\l__datatool_action_type_int=\count477
+\l__datatool_action_datum_round_int=\count478
+\dtlcolumnnum=\count479
+\dtlrownum=\count480
+\@dtl@before=\toks35
+\@dtl@after=\toks36
+\@dtl@colhead=\toks37
+\dtlcurrentrow=\toks38
+\dtlbeforerow=\toks39
+\dtlafterrow=\toks40
+\l__datatool_map_data_max_cols_int=\count481
+\l__datatool_map_data_edit_column_int=\count482
+\dtlforeachlevel=\count483
+\c@DTLrow=\count484
+\c@DTLrowi=\count485
+\c@DTLrowii=\count486
+\c@DTLrowiii=\count487
+\dtl@rowi=\count488
+\dtl@rowii=\count489
+\dtl@rowiii=\count490
+\g__filtered_row_i_int=\count491
+\g__filtered_row_ii_int=\count492
+\g__filtered_row_iii_int=\count493
+\@dtl@curi=\toks41
+\@dtl@previ=\toks42
+\@dtl@nexti=\toks43
+\@dtl@curii=\toks44
+\@dtl@previi=\toks45
+\@dtl@nextii=\toks46
+\@dtl@curiii=\toks47
+\@dtl@previii=\toks48
+\@dtl@nextiii=\toks49
+\l_datatool_display_per_row_int=\count494
+\l_datatool_display_tab_rows_int=\count495
+\@dtl@toksA=\toks50
+\@dtl@toksB=\toks51
+\@dtl@elements=\count496
+\__datatool_sort_data_sortcol_int=\count497
+\__datatool_sort_data_grpcol_int=\count498
+\dtl@omitlines=\count499
+\l__datatool_line_int=\count500
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen184
+\ar@mcellbox=\box59
+\extrarowheight=\dimen185
+\NC@list=\toks52
+\extratabsurround=\skip100
+\backup@length=\skip101
+\ar@cellbox=\box60
+)
+\everycr=\toks53
+\minrowclearance=\skip102
+\rownum=\count501
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen186
+\captionmargin=\dimen187
+\caption@leftmargin=\dimen188
+\caption@rightmargin=\dimen189
+\caption@width=\dimen190
+\caption@indent=\dimen191
+\caption@parindent=\dimen192
+\caption@hangindent=\dimen193
+Package caption Info: arabic babel option detected.
+Package caption Info: arabi babel package is loaded.
+Package caption Info: french babel package is loaded.
+)
+\c@caption@flags=\count502
+\c@continuedfloat=\count503
+Package caption Info: arabi babel package is loaded.
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip103
+\LTright=\skip104
+\LTpre=\skip105
+\LTpost=\skip106
+\LTchunksize=\count504
+\LTcapwidth=\dimen194
+\LT@head=\box61
+\LT@firsthead=\box62
+\LT@foot=\box63
+\LT@lastfoot=\box64
+\LT@gbox=\box65
+\LT@cols=\count505
+\LT@rows=\count506
+\c@LT@tables=\count507
+\c@LT@chunks=\count508
+\LT@p@ftn=\toks54
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\minitoc.sty
+Package: minitoc 2018/07/12 v62 Package minitoc
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\mtcmess.sty
+Package: mtcmess 2006/03/14
+)
+Package minitoc Info: I0001
+(minitoc)             *** minitoc package, version 62 ***.
+\tf@mtc=\write4
+\mtcindent=\skip107
+\mtcskipamount=\skip108
+Package minitoc Info: I0005
+(minitoc)             compatible with hyperref.
+Package minitoc Info: I0023
+(minitoc)             part level macros available.
+Package minitoc Info: I0003
+(minitoc)             chapter level macros available.
+\mtc@toks=\toks55
+\mtc@strutbox=\box66
+\mtc@hstrutbox=\box67
+Package minitoc Info: I0002
+(minitoc)             Autoconfiguration of extensions.
+\openout4 = `main.mtc0'.
+
+\openout4 = `main.mtc'.
+
+
+(main.mtc0)
+Package minitoc Info: I0012
+(minitoc)             Long extensions (Unix-like) will be used.
+Package minitoc Info: I0031
+(minitoc)             ==> this version is configured for UNIX-like 
+(minitoc)                 (long extensions) file names.
+\openout4 = `main.mtc'.
+
+\openout4 = `main.mtc0'.
+
+\c@mtc=\count509
+\c@minitocdepth=\count510
+\c@ptc=\count511
+\c@parttocdepth=\count512
+\ptcindent=\skip109
+Package minitoc Info: I0010
+(minitoc)             The english language is selected.
+(minitoc)              on input line 4910.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
+File: english.mld 2006/01/13
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
+File: english.mld 2006/01/13
+)
+Package minitoc Info: I0010
+(minitoc)             The french language is selected.
+(minitoc)              on input line 4911.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\french.mld
+File: french.mld 2006/03/21
+))
+Package minitoc Info: I0017
+(minitoc)             \mtcsettitle redefines the macro 
+(minitoc)             "mtctitle" as 
+(minitoc)             "Plan" on input line 170.
+Package minitoc Info: I0008
+(minitoc)             Horizontal rules are inhibited 
+(minitoc)             for the minitocs on input line 172.
+Package minitoc Info: I0052
+(minitoc)             \mtcsetoffset redefines 
+(minitoc)             "mtcoffset" as "-1.0em" on input line 173.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/pstricks\pstricks.sty
+Package: pstricks 2024/02/02 v0.75 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks56
+\XKV@tempa@toks=\toks57
+)
+\XKV@depth=\count513
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks.tex
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-fp.tex
+`pst-fp' v0.06, 2020/11/20 (hv)
+\pstFP@xs=\count514
+\pstFP@xia=\count515
+\pstFP@xib=\count516
+\pstFP@xfa=\count517
+\pstFP@xfb=\count518
+\pstFP@rega=\count519
+\pstFP@regb=\count520
+\pstFP@regs=\count521
+\pstFP@times=\count522
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+common.tex
+\pgfutil@everybye=\toks58
+\pgfutil@tempdima=\dimen195
+\pgfutil@tempdimb=\dimen196
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+latex.def
+\pgfutil@abb=\box68
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.c
+ode.tex
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.st
+y
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
+code.tex
+\pgfkeys@pathtoks=\toks59
+\pgfkeys@temptoks=\toks60
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysl
+ibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks61
+)))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.c
+ode.tex
+\pgf@x=\dimen197
+\pgf@xa=\dimen198
+\pgf@xb=\dimen199
+\pgf@xc=\dimen256
+\pgf@y=\dimen257
+\pgf@ya=\dimen258
+\pgf@yb=\dimen259
+\pgf@yc=\dimen260
+\c@pgf@counta=\count523
+\c@pgf@countb=\count524
+\c@pgf@countc=\count525
+\c@pgf@countd=\count526
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser
+.code.tex
+\pgfmath@dimen=\dimen261
+\pgfmath@count=\count527
+\pgfmath@box=\box69
+\pgfmath@toks=\toks62
+\pgfmath@stack@operand=\toks63
+\pgfmath@stack@operation=\toks64
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.code.tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.basic.code.tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.trigonometric.code.tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.random.code.tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.comparison.code.tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.base.code.tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.round.code.tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.misc.code.tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.integerarithmetics.code.tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.c
+ode.tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.
+code.tex
+\c@pgfmathroundto@lastzeros=\count528
+)))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.c
+ode.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen262
+\pgffor@skip=\dimen263
+\pgffor@stack=\toks65
+\pgffor@toks=\toks66
+))
+\psLoopIndex=\count529
+
+`PSTricks' v3.22A  <2025/12/13> (tvz,hv)
+\pst@dima=\dimen264
+\pst@dimb=\dimen265
+\pst@dimc=\dimen266
+\pst@dimd=\dimen267
+\pst@dimg=\dimen268
+\pst@dimh=\dimen269
+\pst@dimm=\dimen270
+\pst@dimn=\dimen271
+\pst@dimo=\dimen272
+\pst@dimp=\dimen273
+\pst@hbox=\box70
+\pst@ibox=\box71
+\pst@boxg=\box72
+\pst@cnta=\count530
+\pst@cntb=\count531
+\pst@cntc=\count532
+\pst@cntd=\count533
+\pst@cntg=\count534
+\pst@cnth=\count535
+\pst@cntm=\count536
+\pst@cntn=\count537
+\pst@cnto=\count538
+\pst@cntp=\count539
+\@zero=\count540
+\pst@toks=\toks67
+--- We are running latex or xelatex ---
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks.con)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks-colo
+r.tex)
+\psunit=\dimen274
+\psxunit=\dimen275
+\psyunit=\dimen276
+\pst@C@@rType=\count541
+\pslinewidth=\dimen277
+\psk@startLW=\dimen278
+\psk@endLW=\dimen279
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks-arro
+ws.tex
+\pshooklength=\dimen280
+\pshookwidth=\dimen281
+)
+\pst@customdefs=\toks68
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks-dots
+.tex)
+\pslinearc=\dimen282
+\pst@symbolStep=\dimen283
+\pst@symbolWidth=\dimen284
+\pst@symbolLinewidth=\dimen285
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-code-grid
+.tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-code-box.
+tex
+\everypsbox=\toks69
+\psframesep=\dimen286
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-code-arc.
+tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-code-circ
+le_ellipse.tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-code-ref_
+rot.tex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-code-put.
+tex
+\pslabelsep=\dimen287
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-code-pspi
+cture.tex
+\sh@wgridXunit=\dimen288
+\sh@wgridYunit=\dimen289
+\pst@shift=\dimen290
+\ps@imagectr=\count542
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks.con)
+)
+File: pstricks.tex 2025/12/13 v3.22A `PSTricks' (tvz,hv)
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-fp.tex
+`pst-fp' v0.06, 2020/11/20 (hv))
+File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen291
+\Gin@req@width=\dimen292
+)) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count543
+\float@exts=\toks70
+\float@box=\box73
+\@float@everytoks=\toks71
+\@floatcapt=\box74
+)
+(tpl/new_commands.tex
+Package babel Info: 'french' activates 'french' shorthands.
+(babel)             Reported on input line 103.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2025/11/28 version 6.9.0 text color boxes
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.s
+ty
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.s
+ty
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.s
+ty
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@x=\dimen293
+\pgf@y=\dimen294
+\pgf@xa=\dimen295
+\pgf@ya=\dimen296
+\pgf@xb=\dimen297
+\pgf@yb=\dimen298
+\pgf@xc=\dimen299
+\pgf@yc=\dimen300
+\pgf@xd=\dimen301
+\pgf@yd=\dimen302
+\w@pgf@writea=\write5
+\r@pgf@reada=\read4
+\c@pgf@counta=\count544
+\c@pgf@countb=\count545
+\c@pgf@countc=\count546
+\c@pgf@countd=\count547
+\t@pgf@toka=\toks72
+\t@pgf@tokb=\toks73
+\t@pgf@tokc=\toks74
+\pgf@sys@id@count=\count548
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cf
+g
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+softpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count549
+\pgfsyssoftpath@bigbuffer@items=\count550
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+protocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.t
+ex)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+points.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen303
+\pgf@picmaxx=\dimen304
+\pgf@picminy=\dimen305
+\pgf@picmaxy=\dimen306
+\pgf@pathminx=\dimen307
+\pgf@pathmaxx=\dimen308
+\pgf@pathminy=\dimen309
+\pgf@pathmaxy=\dimen310
+\pgf@xx=\dimen311
+\pgf@xy=\dimen312
+\pgf@yx=\dimen313
+\pgf@yy=\dimen314
+\pgf@zx=\dimen315
+\pgf@zy=\dimen316
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen317
+\pgf@path@lasty=\dimen318
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen319
+\pgf@shorten@start@additional=\dimen320
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+scopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box75
+\pgf@hbox=\box76
+\pgf@layerbox@main=\box77
+\pgf@picture@serial@count=\count551
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+graphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen321
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen322
+\pgf@pt@y=\dimen323
+\pgf@pt@temp=\dimen324
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+quick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+objects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+arrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen325
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+shade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen326
+\pgf@sys@shading@range@num=\count552
+\pgf@shadingcount=\count553
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+image.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+external.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box78
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+layers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+patterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+rdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodules
+hapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box79
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulep
+lot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen327
+\pgf@nodesepend=\dimen328
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count554
+\pgfplotmarksize=\dimen329
+)
+\tikz@lastx=\dimen330
+\tikz@lasty=\dimen331
+\tikz@lastxsaved=\dimen332
+\tikz@lastysaved=\dimen333
+\tikz@lastmovetox=\dimen334
+\tikz@lastmovetoy=\dimen335
+\tikzleveldistance=\dimen336
+\tikzsiblingdistance=\dimen337
+\tikz@figbox=\box80
+\tikz@figbox@bg=\box81
+\tikz@tempbox=\box82
+\tikz@tempbox@bg=\box83
+\tikztreelevel=\count555
+\tikznumberofchildren=\count556
+\tikznumberofcurrentchild=\count557
+\tikz@fig@count=\count558
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulem
+atrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count559
+\pgfmatrixcurrentcolumn=\count560
+\pgf@matrix@numberofcolumns=\count561
+)
+\tikz@expandcount=\count562
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks75
+\verbatim@line=\toks76
+\verbatim@in@stream=\read5
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.st
+y
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box84
+\tcb@upperbox=\box85
+\tcb@lowerbox=\box86
+\tcb@phantombox=\box87
+\c@tcbbreakpart=\count563
+\c@tcblayer=\count564
+\c@tcolorbox@number=\count565
+\l__tcobox_tmpa_box=\box88
+\l__tcobox_tmpa_dim=\dimen338
+\tcb@temp=\box89
+\tcb@temp=\box90
+\tcb@temp=\box91
+\tcb@temp=\box92
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
+Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
+\AP@output=\toks77
+\AP@partial=\box93
+\AP@footins=\box94
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip110
+\multirow@cntb=\count566
+\multirow@dima=\skip111
+\bigstrutjot=\dimen339
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nome
+tadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
+\c@r@tfl@t=\count567
+\rotFPtop=\skip112
+\rotFPbot=\skip113
+\rot@float@box=\box95
+\rot@mess@toks=\toks78
+))
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen340
+\WF@size=\dimen341
+\c@WF@wrappedlines=\count568
+\WF@box=\box96
+\WF@everypar=\toks79
+Package: wrapfig 2003/01/31  v 3.6
+)
+\@indexfile=\write6
+\openout6 = `main.idx'.
+
+
+Writing index file main.idx
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'french'.
+(main.aux (tpl/cover_page_black.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for LAE/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=472.31575pt
+* \textheight=683.35493pt
+* \oddsidemargin=-9.67393pt
+* \evensidemargin=-9.67393pt
+* \topmargin=-15.36449pt
+* \headheight=14.5pt
+* \headsep=14.45377pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=40.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \microtypecontext on input line 7.
+Package microtype Info: Applying patch `item' on input line 7.
+Package microtype Info: Applying patch `toc' on input line 7.
+Package microtype Info: Applying patch `eqnum' on input line 7.
+Package microtype Info: Applying patch `footnote' on input line 7.
+Package microtype Info: Applying patch `verbatim' on input line 7.
+LaTeX Info: Redefining \microtypesetup on input line 7.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No font expansion.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Info: Redefining \degres on input line 7.
+Package biblatex Info: Trying to load language 'french'...
+Package biblatex Info: ... file 'french.lbx' found.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\french.lbx
+File: french.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'arabic'...
+Package biblatex Info: ... file 'arabic.lbx' not found.
+
+Package biblatex Warning: Language 'arabic' not supported.
+(biblatex)                Using dummy definitions on input line 7.
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout3 = `main-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' not found.
+
+No file main.bbl.
+Package biblatex Info: Reference section=0 on input line 7.
+Package biblatex Info: Reference segment=0 on input line 7.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count569
+\scratchdimen=\dimen342
+\scratchbox=\box97
+\nofMPsegments=\count570
+\nofMParguments=\count571
+\everyMPshowfont=\toks80
+\MPscratchCnt=\count572
+\MPscratchDim=\dimen343
+\MPnumerator=\count573
+\makeMPintoPDFobject=\count574
+\everyMPtoPDFconversion=\toks81
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package minitoc(hints) Info: I0049
+(minitoc(hints))             ==> You requested the hints option. 
+(minitoc(hints))             Some hints are eventually given below.
+
+
+Package minitoc(hints) Warning: W0099
+(minitoc(hints))                --- The titlesec package is loaded. 
+(minitoc(hints))                It is incompatible 
+(minitoc(hints))                with the minitoc package.
+
+(global_config.tex) (tpl/cover_page.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 731.23584pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-58.54463pt
+* \headheight=14.5pt
+* \headsep=14.45377pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=40.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<./img/logo.jpg, id=4, 1007.765pt x 593.21625pt>
+File: ./img/logo.jpg Graphic file (type jpg)
+<use ./img/logo.jpg>
+Package pdftex.def Info: ./img/logo.jpg  used on input line 11.
+(pdftex.def)             Requested size: 106.41226pt x 62.63803pt.
+
+Overfull \hbox (9.67438pt too wide) in paragraph at lines 11--12
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
+
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+<./img/tekup.png, id=5, 171.64125pt x 166.37157pt>
+File: ./img/tekup.png Graphic file (type png)
+<use ./img/tekup.png>
+Package pdftex.def Info: ./img/tekup.png  used on input line 35.
+(pdftex.def)             Requested size: 106.41226pt x 103.14421pt.
+
+Overfull \hbox (9.67438pt too wide) in paragraph at lines 35--36
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Overfull \hbox (22.76517pt too wide) in paragraph at lines 85--94
+[]$[]$ 
+ []
+
+)
+Overfull \hbox (11.38112pt too wide) has occurred while \output is active
+ [][]| 
+ []
+
+[1
+Non-PDF special ignored!
+<special> header=pstricks.pro
+Non-PDF special ignored!
+<special> header=pst-algparser.pro
+Non-PDF special ignored!
+<special> header=pst-tools.pro
+Non-PDF special ignored!
+<special> header=pst-dots.pro
+
+Non-PDF special ignored!
+<special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
+
+
+{C:/Users/Dell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/logo.jp
+g> <./img/tekup.png>] [1
+
+]
+\openout2 = `tpl/cover_page_black.aux'.
+
+ (tpl/cover_page_black.tex [2]) (tpl/signatures.tex
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+ \T1/cmr/bx/n/12 Si-gna-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+ \T1/cmr/bx/n/12 Si-gna-
+ []
+
+) (dedicaces.tex [1
+
+
+]) (remerciement.tex [2
+
+])
+Package minitoc Info: I0024
+(minitoc)             PREPARING MINITOCS FROM main.toc on input line 24.
+Package minitoc Info: I0033
+(minitoc)             Writing main.mtc1.
+\openout4 = `main.mtc1'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing main.mtc2.
+\openout4 = `main.mtc2'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing main.mtc3.
+\openout4 = `main.mtc3'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing main.mtc4.
+\openout4 = `main.mtc4'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing main.mtc5.
+\openout4 = `main.mtc5'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing main.mtc6.
+\openout4 = `main.mtc6'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing main.mtc7.
+\openout4 = `main.mtc7'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing main.mtc8.
+\openout4 = `main.mtc8'.
+
+ [3
+
+] (main.toc [4
+
+] [5] [6])
+\tf@toc=\write7
+\openout7 = `main.toc'.
+
+
+[7] (main.lof)
+\tf@lof=\write8
+\openout8 = `main.lof'.
+
+ [8
+
+] (main.lot [9
+
+])
+\tf@lot=\write9
+\openout9 = `main.lot'.
+
+ (acronymes.tex [10]) [11
+
+] (introduction.tex
+[1
+
+
+])
+Package babel Info: 'french' activates 'french' shorthands.
+(babel)             Reported on input line 38.
+ [2] (chap_01.tex
+Chapitre \textLR{1}.
+Package minitoc Info: I0006
+(minitoc)             main.mtc2 is empty on input line 1.
+[3
+
+
+]
+File: ./img/tekup.png Graphic file (type png)
+<use ./img/tekup.png>
+Package pdftex.def Info: ./img/tekup.png  used on input line 15.
+(pdftex.def)             Requested size: 193.47578pt x 187.53563pt.
+ [4] [5]
+
+LaTeX Warning: Citation 'rgpd' on page 6 undefined on input line 44.
+
+[6]
+Underfull \hbox (badness 2538) in paragraph at lines 89--89
+[]|\T1/cmr/m/n/10.95 Développement des ser-vices
+ []
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+chap_01.tex:98: ignored error: Infinite glue shrinkage found in box being split
+[7] [8]) [9] (chap_02.tex
+Chapitre \textLR{2}.
+\openout4 = `main.mtc'.
+
+\openout4 = `main.mtc'.
+
+(main.mtc3) [10
+
+
+]
+
+LaTeX Warning: Citation 'cryptography' on page 11 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'cryptography' on page 11 undefined on input line 20.
+
+[11]
+
+LaTeX Warning: Citation 'webrtc' on page 12 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'nist' on page 12 undefined on input line 27.
+
+
+LaTeX Warning: Citation 'cryptography' on page 12 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'stride' on page 12 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'nist' on page 12 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'nist' on page 12 undefined on input line 46.
+
+
+LaTeX Warning: Citation 'rgpd' on page 12 undefined on input line 50.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+[]|\T1/cmr/m/n/10.95 Parlement eu-ro-
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 52--53
+[]|\T1/cmr/m/n/10.95 OWASP Foun-da-
+ []
+
+chap_02.tex:57: ignored error: Infinite glue shrinkage found in box being split
+[12]
+
+LaTeX Warning: Citation 'nist' on page 13 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'rgpd' on page 13 undefined on input line 74.
+
+[13]
+
+LaTeX Warning: Citation 'microservices' on page 14 undefined on input line 79.
+
+
+LaTeX Warning: Citation 'docker' on page 14 undefined on input line 86.
+
+
+LaTeX Warning: Citation 'microservices' on page 14 undefined on input line 90.
+
+[14]
+
+LaTeX Warning: Citation 'whisper' on page 15 undefined on input line 98.
+
+[15]
+
+LaTeX Warning: Citation 'rgpd' on page 16 undefined on input line 114.
+
+
+LaTeX Warning: Citation 'nist' on page 16 undefined on input line 128.
+
+[16]
+
+LaTeX Warning: Citation 'nist' on page 17 undefined on input line 133.
+
+[17]) [18] (chap_03.tex
+Chapitre \textLR{3}.
+\openout4 = `main.mtc'.
+
+\openout4 = `main.mtc'.
+
+(main.mtc4) [19
+
+
+] [20]
+<./img/visioconference-00-overview.png, id=133, 964.60374pt x 1092.08pt>
+File: ./img/visioconference-00-overview.png Graphic file (type png)
+<use ./img/visioconference-00-overview.png>
+Package pdftex.def Info: ./img/visioconference-00-overview.png  used on input l
+ine 73.
+(pdftex.def)             Requested size: 483.69896pt x 547.62172pt.
+ [21]
+Underfull \hbox (badness 1571) in paragraph at lines 88--88
+[]|\T1/cmr/m/n/10.95 Contrôler l'ac-cès à la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]|\T1/cmr/m/n/10.95 Chatbot conver-sa-tion-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]|\T1/cmr/m/n/10.95 Traduction au-to-ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]|\T1/cmr/m/n/10.95 Protéger les don-nées
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+[]|\T1/cmr/m/n/10.95 Privacy by De-sign, ex-
+ []
+
+
+Underfull \hbox (badness 2409) in paragraph at lines 98--98
+[]|\T1/cmr/m/n/10.95 Sécuriser les échanges
+ []
+
+
+Underfull \hbox (badness 4859) in paragraph at lines 100--100
+[]|\T1/cmr/m/n/10.95 Filtrage et va-li-da-tion
+ []
+
+
+Underfull \hbox (badness 8189) in paragraph at lines 102--102
+[]|\T1/cmr/m/n/10.95 Administrer la pla-te-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]|\T1/cmr/m/n/10.95 Dashboard d'ad-mi-nis-
+ []
+
+chap_03.tex:107: ignored error: Infinite glue shrinkage found in box being spli
+t [22 <./img/visioconference-00-overview.png (PNG copy)>]
+<./img/visioconference-01-events-auth.png, id=140, 761.84625pt x 847.165pt>
+File: ./img/visioconference-01-events-auth.png Graphic file (type png)
+<use ./img/visioconference-01-events-auth.png>
+Package pdftex.def Info: ./img/visioconference-01-events-auth.png  used on inpu
+t line 113.
+(pdftex.def)             Requested size: 483.69725pt x 537.86623pt.
+ [23]
+Overfull \hbox (0.85886pt too wide) in paragraph at lines 126--126
+[]|\T1/cmr/m/n/10.95 UC_A01| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]|\T1/cmr/m/n/10.95 Organisateur, Par-ti-ci-
+ []
+
+
+Overfull \hbox (0.85886pt too wide) in paragraph at lines 128--128
+[]|\T1/cmr/m/n/10.95 UC_A02| 
+ []
+
+
+Overfull \hbox (0.85886pt too wide) in paragraph at lines 130--130
+[]|\T1/cmr/m/n/10.95 UC_A03| 
+ []
+
+
+Overfull \hbox (0.85886pt too wide) in paragraph at lines 132--132
+[]|\T1/cmr/m/n/10.95 UC_A04| 
+ []
+
+
+Overfull \hbox (0.85886pt too wide) in paragraph at lines 134--134
+[]|\T1/cmr/m/n/10.95 UC_A05| 
+ []
+
+
+Overfull \hbox (1.16405pt too wide) in paragraph at lines 146--146
+[]|\T1/cmr/m/n/10.95 UC_O01| 
+ []
+
+
+Overfull \hbox (1.16405pt too wide) in paragraph at lines 148--148
+[]|\T1/cmr/m/n/10.95 UC_O02| 
+ []
+
+chap_03.tex:153: ignored error: Infinite glue shrinkage found in box being spli
+t [24 <./img/visioconference-01-events-auth.png (PNG copy)>]
+<./img/visioconference-02-meeting.png, id=148, 747.79375pt x 816.04875pt>
+File: ./img/visioconference-02-meeting.png Graphic file (type png)
+<use ./img/visioconference-02-meeting.png>
+Package pdftex.def Info: ./img/visioconference-02-meeting.png  used on input li
+ne 159.
+(pdftex.def)             Requested size: 483.69823pt x 527.84787pt.
+ [25]
+Overfull \hbox (2.67224pt too wide) in paragraph at lines 172--172
+[]|\T1/cmr/m/n/10.95 UC_M01| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+[]|\T1/cmr/m/n/10.95 Participant, Or-ga-ni-sa-
+ []
+
+
+Overfull \hbox (2.67224pt too wide) in paragraph at lines 174--174
+[]|\T1/cmr/m/n/10.95 UC_M02| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+[]|\T1/cmr/m/n/10.95 Participant, Or-ga-ni-sa-
+ []
+
+
+Overfull \hbox (2.67224pt too wide) in paragraph at lines 176--176
+[]|\T1/cmr/m/n/10.95 UC_M03| 
+ []
+
+
+Overfull \hbox (2.67224pt too wide) in paragraph at lines 178--178
+[]|\T1/cmr/m/n/10.95 UC_M04| 
+ []
+
+
+Overfull \hbox (2.67224pt too wide) in paragraph at lines 180--180
+[]|\T1/cmr/m/n/10.95 UC_M05| 
+ []
+
+
+Overfull \hbox (2.67224pt too wide) in paragraph at lines 182--182
+[]|\T1/cmr/m/n/10.95 UC_M06| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+[]|\T1/cmr/m/n/10.95 Participant, Or-ga-ni-sa-
+ []
+
+
+Overfull \hbox (2.67224pt too wide) in paragraph at lines 184--184
+[]|\T1/cmr/m/n/10.95 UC_M07| 
+ []
+
+
+Overfull \hbox (2.67224pt too wide) in paragraph at lines 186--186
+[]|\T1/cmr/m/n/10.95 UC_M08| 
+ []
+
+
+Overfull \hbox (2.67224pt too wide) in paragraph at lines 188--188
+[]|\T1/cmr/m/n/10.95 UC_M09| 
+ []
+
+
+Overfull \hbox (2.67224pt too wide) in paragraph at lines 190--190
+[]|\T1/cmr/m/n/10.95 UC_M10| 
+ []
+
+
+Overfull \hbox (2.67224pt too wide) in paragraph at lines 192--192
+[]|\T1/cmr/m/n/10.95 UC_M11| 
+ []
+
+
+Overfull \hbox (2.67224pt too wide) in paragraph at lines 194--194
+[]|\T1/cmr/m/n/10.95 UC_M12| 
+ []
+
+chap_03.tex:199: ignored error: Infinite glue shrinkage found in box being spli
+t [26 <./img/visioconference-02-meeting.png (PNG copy)>]
+<./img/visioconference-03-ia.png, id=155, 1012.78375pt x 580.1675pt>
+File: ./img/visioconference-03-ia.png Graphic file (type png)
+<use ./img/visioconference-03-ia.png>
+Package pdftex.def Info: ./img/visioconference-03-ia.png  used on input line 20
+5.
+(pdftex.def)             Requested size: 483.68898pt x 277.0785pt.
+
+chap_03.tex:237: ignored error: Infinite glue shrinkage found in box being spli
+t [27 <./img/visioconference-03-ia.png (PNG copy)>]
+<./img/visioconference-04-rgpd.png, id=159, 1083.04625pt x 793.96625pt>
+File: ./img/visioconference-04-rgpd.png Graphic file (type png)
+<use ./img/visioconference-04-rgpd.png>
+Package pdftex.def Info: ./img/visioconference-04-rgpd.png  used on input line 
+243.
+(pdftex.def)             Requested size: 483.69756pt x 354.592pt.
+
+Overfull \hbox (0.70921pt too wide) in paragraph at lines 256--256
+[]|\T1/cmr/m/n/10.95 UC_R01| 
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 256--256
+[]|\T1/cmr/m/n/10.95 Participant, Or-ga-ni-
+ []
+
+
+Overfull \hbox (0.70921pt too wide) in paragraph at lines 258--258
+[]|\T1/cmr/m/n/10.95 UC_R02| 
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 258--258
+[]|\T1/cmr/m/n/10.95 Participant, Or-ga-ni-
+ []
+
+
+Overfull \hbox (0.70921pt too wide) in paragraph at lines 260--260
+[]|\T1/cmr/m/n/10.95 UC_R03| 
+ []
+
+
+Overfull \hbox (0.70921pt too wide) in paragraph at lines 262--262
+[]|\T1/cmr/m/n/10.95 UC_R04| 
+ []
+
+
+Overfull \hbox (0.70921pt too wide) in paragraph at lines 264--264
+[]|\T1/cmr/m/n/10.95 UC_R05| 
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 264--264
+[]|\T1/cmr/m/n/10.95 Télécharger ses don-nées per-son-
+ []
+
+
+Overfull \hbox (0.70921pt too wide) in paragraph at lines 266--266
+[]|\T1/cmr/m/n/10.95 UC_R06| 
+ []
+
+
+Overfull \hbox (0.70921pt too wide) in paragraph at lines 268--268
+[]|\T1/cmr/m/n/10.95 UC_R07| 
+ []
+
+
+Overfull \hbox (0.70921pt too wide) in paragraph at lines 270--270
+[]|\T1/cmr/m/n/10.95 UC_R08| 
+ []
+
+
+Overfull \hbox (0.70921pt too wide) in paragraph at lines 272--272
+[]|\T1/cmr/m/n/10.95 UC_R09| 
+ []
+
+
+Overfull \hbox (0.70921pt too wide) in paragraph at lines 274--274
+[]|\T1/cmr/m/n/10.95 UC_R10| 
+ []
+
+[28 <./img/visioconference-04-rgpd.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
+[]|\T1/cmr/m/n/10.95 Chiffrement TLS/SRTP, MFA,
+ []
+
+
+Underfull \hbox (badness 3179) in paragraph at lines 300--300
+[]|\T1/cmr/m/n/10.95 Architecture mi-cro-ser-vices, conte-
+ []
+
+chap_03.tex:307: ignored error: Infinite glue shrinkage found in box being spli
+t [29] [30]
+Overfull \hbox (18.58919pt too wide) in paragraph at lines 364--364
+[]|\T1/cmr/bx/n/10.95 Personnalisation| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
+[]|\T1/cmr/m/n/10.95 Oui
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--374
+[]|\T1/cmr/m/n/10.95 GCP (mon-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+[]|\T1/cmr/m/n/10.95 TLS 1.3 +
+ []
+
+
+Underfull \hbox (badness 5711) in paragraph at lines 376--377
+[]|\T1/cmr/m/n/10.95 Oui (lo-
+ []
+
+[31]
+
+LaTeX Warning: Citation 'webrtc' on page 32 undefined on input line 383.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+[]|\T1/cmr/bx/n/10.95 Modules évé-ne-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--396
+[]|\T1/cmr/m/n/10.95 Propriétaire
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+[]|\T1/cmr/m/n/10.95 Propriétaire
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--399
+[]|\T1/cmr/m/n/10.95 Oui (JSON-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
+[]|\T1/cmr/m/n/10.95 Open-source
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 412--412
+[]|\T1/cmr/bx/n/10.95 Compréhension
+ []
+
+
+Overfull \hbox (11.54572pt too wide) in paragraph at lines 412--412
+[]|\T1/cmr/bx/n/10.95 Déploiement
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 418--418
+[]|\T1/cmr/m/n/10.95 Non (cloud
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--418
+[]|\T1/cmr/m/n/10.95 Risque
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--418
+\T1/cmr/m/n/10.95 trans-fert
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--419
+[]|\T1/cmr/m/n/10.95 Payant à
+ []
+
+
+Underfull \hbox (badness 2591) in paragraph at lines 422--422
+[]|\T1/cmr/m/n/10.95 Bonne (règles +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--423
+[]|\T1/cmr/m/n/10.95 Gratuit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--423
+\T1/cmr/m/n/10.95 (self-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
+[]|\T1/cmr/m/n/10.95 LLM lo-cal (API
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
+[]|\T1/cmr/m/n/10.95 Gratuit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
+\T1/cmr/m/n/10.95 (self-
+ []
+
+[32]
+
+LaTeX Warning: Citation 'whisper' on page 33 undefined on input line 431.
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 437--437
+[]|\T1/cmr/bx/n/10.95 Localisation don-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--437
+[]|\T1/cmr/bx/n/10.95 Conformité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+[]|\T1/cmr/m/n/10.95 Certifications
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--447
+[]|\T1/cmr/m/n/10.95 Google Cloud
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--449
+[]|\T1/cmr/m/n/10.95 France (Rou-baix,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--449
+[]|\T1/cmr/m/n/10.95 Natif, DPA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
+[]|\T1/cmr/m/n/10.95 Prévisible, sans
+ []
+
+
+LaTeX Warning: Citation 'rgpd' on page 33 undefined on input line 456.
+
+[33]
+Underfull \hbox (badness 5607) in paragraph at lines 467--467
+[]|\T1/cmr/bx/n/10.95 Technologie re-te-
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 475--475
+[]|\T1/cmr/m/n/10.95 MFA (TOTP RFC
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 475--476
+[]|\T1/cmr/m/n/10.95 Résistance au phi-shing, sta-te-less,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
+[]|\T1/cmr/m/n/10.95 Modules per-son-na-li-sables, API
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 481--481
+[]|\T1/cmr/m/n/10.95 Chatbot IA / Tra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+[]|\T1/cmr/m/n/10.95 LLM lo-cal (API
+ []
+
+
+LaTeX Warning: Citation 'whisper' on page 34 undefined on input line 481.
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 481--482
+[]|\T1/cmr/m/n/10.95 Contextuel, lo-cal, RGPD-friendly,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+\T1/cmr/m/n/10.95 in-dé-pen-dant des API tierces
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+[]|\T1/cmr/m/n/10.95 Docker + Do-cker
+ []
+
+
+LaTeX Warning: Citation 'docker' on page 34 undefined on input line 483.
+
+
+Underfull \hbox (badness 6094) in paragraph at lines 487--487
+[]|\T1/cmr/m/n/10.95 NIST CSF 2.0 +
+ []
+
+
+LaTeX Warning: Citation 'nist' on page 34 undefined on input line 487.
+
+
+LaTeX Warning: Citation 'stride' on page 34 undefined on input line 487.
+
+chap_03.tex:492: ignored error: Infinite glue shrinkage found in box being spli
+t [34]) [35] (chap_04.tex
+Chapitre \textLR{4}.
+\openout4 = `main.mtc'.
+
+\openout4 = `main.mtc'.
+
+(main.mtc5) [36
+
+
+] [37]
+Underfull \hbox (badness 5607) in paragraph at lines 18--18
+[]|\T1/cmr/bx/n/10.95 Technologie re-te-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\T1/cmr/m/n/10.95 Infrastructure
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 30--31
+[]|\T1/cmr/m/n/10.95 Compréhension contex-tuelle du lan-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]|\T1/cmr/m/n/10.95 Chiffrement
+ []
+
+chap_04.tex:43: ignored error: Infinite glue shrinkage found in box being split
+[38]
+<./img/Nv-architecture-globale2.jpg, id=195, 1194.4625pt x 1897.0875pt>
+File: ./img/Nv-architecture-globale2.jpg Graphic file (type jpg)
+<use ./img/Nv-architecture-globale2.jpg>
+Package pdftex.def Info: ./img/Nv-architecture-globale2.jpg  used on input line
+ 49.
+(pdftex.def)             Requested size: 459.51054pt x 729.81648pt.
+ [39]
+Overfull \vbox (18.18063pt too high) has occurred while \output is active []
+
+
+[40 <./img/Nv-architecture-globale2.jpg>]
+
+LaTeX Warning: Citation 'rgpd' on page 41 undefined on input line 54.
+
+
+LaTeX Warning: Citation 'docker' on page 41 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'nist' on page 41 undefined on input line 58.
+
+[41]
+<./img/diagramme-classes.png, id=206, 2055.68pt x 1682.285pt>
+File: ./img/diagramme-classes.png Graphic file (type png)
+<use ./img/diagramme-classes.png>
+Package pdftex.def Info: ./img/diagramme-classes.png  used on input line 71.
+(pdftex.def)             Requested size: 459.51054pt x 376.03352pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+[]|\T1/cmr/bx/n/10.95 Méthodes prin-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+[]|\T1/cmtt/m/n/10.95 authenticate()\T1/cmr/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+[]|\T1/cmtt/m/n/10.95 startSession()\T1/cmr/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+\T1/cmtt/m/n/10.95 captureAudio()\T1/cmr/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\T1/cmr/m/n/10.95 Sécurité trans-ver-sale (chif-fre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+[]|\T1/cmtt/m/n/10.95 encrypt()\T1/cmr/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+\T1/cmtt/m/n/10.95 authorize()\T1/cmr/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+[]|\T1/cmtt/m/n/10.95 createMeeting()\T1/cmr/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+\T1/cmtt/m/n/10.95 manageUsers()\T1/cmr/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 94--94
+[]|\T1/cmr/m/n/10.95 Transcription au-to-ma-tique du
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 100--100
+[]|\T1/cmr/m/n/10.95 Entité re-pré-sen-tant un évé-ne-
+ []
+
+chap_04.tex:105: ignored error: Infinite glue shrinkage found in box being spli
+t [42 <./img/diagramme-classes.png (PNG copy)>] [43]
+<./img/diagramme-sequence.png, id=213, 2095.83pt x 2077.7625pt>
+File: ./img/diagramme-sequence.png Graphic file (type png)
+<use ./img/diagramme-sequence.png>
+Package pdftex.def Info: ./img/diagramme-sequence.png  used on input line 120.
+(pdftex.def)             Requested size: 459.51054pt x 455.52396pt.
+ [44 <./img/diagramme-sequence.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\T1/cmr/bx/n/10.95 Catégorie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\T1/cmr/m/n/10.95 Spoofing (Usur-pa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\T1/cmr/m/n/10.95 Usurpation d'iden-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]|\T1/cmr/m/n/10.95 Tampering (Al-té-ra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+[]|\T1/cmr/m/n/10.95 Information Dis-clo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]|\T1/cmr/m/n/10.95 Denial of Ser-vice
+ []
+
+
+Underfull \hbox (badness 6825) in paragraph at lines 158--158
+[]|\T1/cmr/m/n/10.95 Saturation du ser-
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 160--160
+[]|\T1/cmr/m/n/10.95 Elevation of Pri-vi-
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 160--160
+[]|\T1/cmr/m/n/10.95 Accès non au-to-risé
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+[]|\T1/cmr/m/n/10.95 Non-conformité
+ []
+
+chap_04.tex:167: ignored error: Infinite glue shrinkage found in box being spli
+t [45] [46]
+Underfull \hbox (badness 1406) in paragraph at lines 188--188
+[]|\T1/cmr/m/n/10.95 Lecture, par-ti-ci-pa-tion aux ses-
+ []
+
+
+Overfull \hbox (1.51392pt too wide) in paragraph at lines 192--192
+[]|\T1/cmr/m/n/10.95 Administrateur| 
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 192--193
+[]|\T1/cmr/m/n/10.95 Système com-plet, jour-naux
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 196--197
+[]|\T1/cmr/m/n/10.95 Données des évé-ne-ments et
+ []
+
+[47]
+
+LaTeX Warning: Citation 'stride' on page 48 undefined on input line 209.
+
+
+LaTeX Warning: Citation 'nist' on page 48 undefined on input line 220.
+
+[48]
+
+LaTeX Warning: Citation 'rgpd' on page 49 undefined on input line 237.
+
+[49]
+Underfull \hbox (badness 4229) in paragraph at lines 259--259
+[]|\T1/cmr/m/n/10.95 Interface web uti-li-sa-teur
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 261--261
+[]|\T1/cmr/m/n/10.95 Authentification MFA et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
+[]|\T1/cmr/m/n/10.95 Transcription au-dio via
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 273--273
+[]|\T1/cmr/m/n/10.95 Mandataire in-verse avec
+ []
+
+chap_04.tex:278: ignored error: Infinite glue shrinkage found in box being spli
+t [50] [51]) [52] (chap_05.tex
+Chapitre \textLR{5}.
+\openout4 = `main.mtc'.
+
+\openout4 = `main.mtc'.
+
+(main.mtc6) [53
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+[]|\T1/cmr/m/n/10.95 Développement ba-ckend (Fas-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+[]|\T1/cmr/m/n/10.95 Environnement de dé-ve-lop-pe-
+ []
+
+[54] [55]
+<./img/fig31-vitrine.png, id=252, 861.2175pt x 374.90062pt>
+File: ./img/fig31-vitrine.png Graphic file (type png)
+<use ./img/fig31-vitrine.png>
+Package pdftex.def Info: ./img/fig31-vitrine.png  used on input line 75.
+(pdftex.def)             Requested size: 459.51054pt x 200.03497pt.
+<./img/fig32-formulaire.png, id=253, 863.225pt x 354.32375pt>
+File: ./img/fig32-formulaire.png Graphic file (type png)
+<use ./img/fig32-formulaire.png>
+Package pdftex.def Info: ./img/fig32-formulaire.png  used on input line 82.
+(pdftex.def)             Requested size: 459.51054pt x 188.61247pt.
+
+Overfull \hbox (10.51224pt too wide) in paragraph at lines 103--103
+[]|\T1/cmtt/m/n/10.95 /api/healthcare/inscription| 
+ []
+
+
+Overfull \hbox (2.13158pt too wide) in paragraph at lines 105--105
+[]|\T1/cmr/m/n/10.95 POST/GET| 
+ []
+
+
+Overfull \hbox (10.51224pt too wide) in paragraph at lines 107--107
+[]|\T1/cmtt/m/n/10.95 /api/healthcare/rgpd/export| 
+ []
+
+
+Overfull \hbox (10.51224pt too wide) in paragraph at lines 109--109
+[]|\T1/cmtt/m/n/10.95 /api/healthcare/rgpd/delete| 
+ []
+
+chap_05.tex:114: ignored error: Infinite glue shrinkage found in box being spli
+t [56 <./img/fig31-vitrine.png> <./img/fig32-formulaire.png>]
+<./img/fig37-email-confirmation.png, id=260, 851.18pt x 372.39125pt>
+File: ./img/fig37-email-confirmation.png Graphic file (type png)
+<use ./img/fig37-email-confirmation.png>
+Package pdftex.def Info: ./img/fig37-email-confirmation.png  used on input line
+ 122.
+(pdftex.def)             Requested size: 459.51054pt x 201.03714pt.
+<./img/fig36-email-j2.png, id=261, 637.38126pt x 299.1175pt>
+File: ./img/fig36-email-j2.png Graphic file (type png)
+<use ./img/fig36-email-j2.png>
+Package pdftex.def Info: ./img/fig36-email-j2.png  used on input line 129.
+(pdftex.def)             Requested size: 459.51054pt x 215.64284pt.
+ [57 <./img/fig37-email-confirmation.png>]
+<./img/fig36b-email-j2-boutons.png, id=266, 587.69562pt x 254.45062pt>
+File: ./img/fig36b-email-j2-boutons.png Graphic file (type png)
+<use ./img/fig36b-email-j2-boutons.png>
+Package pdftex.def Info: ./img/fig36b-email-j2-boutons.png  used on input line 
+136.
+(pdftex.def)             Requested size: 459.51054pt x 198.95212pt.
+ [58 <./img/fig36-email-j2.png> <./img/fig36b-email-j2-boutons.png>]
+File: ./img/visioconference-03-ia.png Graphic file (type png)
+<use ./img/visioconference-03-ia.png>
+Package pdftex.def Info: ./img/visioconference-03-ia.png  used on input line 16
+0.
+(pdftex.def)             Requested size: 459.51054pt x 263.22414pt.
+
+Underfull \hbox (badness 3884) in paragraph at lines 175--175
+[]|\T1/cmr/m/n/10.95 FastAPI / Py-thon
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 175--176
+[]|\T1/cmr/m/n/10.95 Réception, va-li-da-tion, ges-tion du
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+[]|\T1/cmr/m/n/10.95 Session / Post-
+ []
+
+chap_05.tex:184: ignored error: Infinite glue shrinkage found in box being spli
+t [59]
+File: ./img/visioconference-00-overview.png Graphic file (type png)
+<use ./img/visioconference-00-overview.png>
+Package pdftex.def Info: ./img/visioconference-00-overview.png  used on input l
+ine 201.
+(pdftex.def)             Requested size: 459.51054pt x 520.22647pt.
+ [60] [61]
+Underfull \hbox (badness 1845) in paragraph at lines 223--223
+[]|\T1/cmr/m/n/10.95 Vérification du to-ken en en-tête
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+[]|\T1/cmr/m/n/10.95 401 si ab-
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 225--225
+[]|\T1/cmr/m/n/10.95 Sanitisation des en-
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 225--225
+[]|\T1/cmr/m/n/10.95 Filtrage XSS, sup-pres-sion ba-lises
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+[]|\T1/cmr/m/n/10.95 429 si dé-pas-se-
+ []
+
+
+Underfull \hbox (badness 3657) in paragraph at lines 229--229
+[]|\T1/cmr/m/n/10.95 Contrôle des ac-cès
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+[]|\T1/cmr/m/n/10.95 Auditabilité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]|\T1/cmr/m/n/10.95 Anti-injection
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 233--234
+[]|\T1/cmr/m/n/10.95 Prompt in-jec-tion
+ []
+
+[62]
+<./img/visioconference-05-admin.png, id=285, 618.31pt x 1053.9375pt>
+File: ./img/visioconference-05-admin.png Graphic file (type png)
+<use ./img/visioconference-05-admin.png>
+Package pdftex.def Info: ./img/visioconference-05-admin.png  used on input line
+ 281.
+(pdftex.def)             Requested size: 459.51054pt x 783.27873pt.
+ [63]
+Overfull \vbox (71.64288pt too high) has occurred while \output is active []
+
+
+[64 <./img/visioconference-05-admin.png (PNG copy)>]
+Underfull \hbox (badness 5133) in paragraph at lines 296--296
+[]|\T1/cmr/m/n/10.95 Réduction du sup-
+ []
+
+chap_05.tex:339: ignored error: Infinite glue shrinkage found in box being spli
+t [65]
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+[]|\T1/cmr/bx/n/10.95 Permissions ac-cor-
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 362--363
+[]|\T1/cmr/m/n/10.95 Gestion des uti-li-sa-teurs, logs,
+ []
+
+[66]
+<./img/fig38-rgpd-export.png, id=300, 603.25375pt x 200.24812pt>
+File: ./img/fig38-rgpd-export.png Graphic file (type png)
+<use ./img/fig38-rgpd-export.png>
+Package pdftex.def Info: ./img/fig38-rgpd-export.png  used on input line 384.
+(pdftex.def)             Requested size: 459.51054pt x 152.53236pt.
+<./img/fig39-rgpd-delete.png, id=301, 628.3475pt x 132.495pt>
+File: ./img/fig39-rgpd-delete.png Graphic file (type png)
+<use ./img/fig39-rgpd-delete.png>
+Package pdftex.def Info: ./img/fig39-rgpd-delete.png  used on input line 391.
+(pdftex.def)             Requested size: 459.51054pt x 96.89238pt.
+ [67 <./img/fig38-rgpd-export.png> <./img/fig39-rgpd-delete.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+[]|\T1/cmr/m/n/10.95 Tests d'in-té-gra-
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 411--411
+[]|\T1/cmr/m/n/10.95 Pytest + Do-
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 415--415
+[]|\T1/cmr/m/n/10.95 Tests de per-for-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
+[]|\T1/cmr/m/n/10.95 Vulnérabilités OWASP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--429
+[]|\T1/cmr/bx/n/10.95 Contre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--435
+[]|\T1/cmr/m/n/10.95 Usurpation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--435
+\T1/cmr/m/n/10.95 d'iden-tité,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--435
+\T1/cmr/m/n/10.95 ac-cès non
+ []
+
+
+Overfull \hbox (6.2967pt too wide) in paragraph at lines 435--435
+[]|\T1/cmr/m/n/10.95 Authentification
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 435--435
+\T1/cmr/m/n/10.95 jose), ex-pi-ra-tion 15
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+[]|\T1/cmr/m/n/10.95 Accès re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+\T1/cmr/m/n/10.95 fusé si
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+\T1/cmr/m/n/10.95 code OTP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--437
+[]|\T1/cmr/m/n/10.95 Modification
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--437
+[]|\T1/cmr/m/n/10.95 Chiffrement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--437
+[]|\T1/cmr/m/n/10.95 TLS 1.3 (HTTPS
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 437--437
+\T1/cmr/m/n/10.95 obli-ga-toire), HMAC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
+[]|\T1/cmr/m/n/10.95 Toute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
+\T1/cmr/m/n/10.95 ten-ta-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
+\T1/cmr/m/n/10.95 d'al-té-ra-tion
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 437--438
+\T1/cmr/m/n/10.95 dé-tec-tée et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--439
+[]|\T1/cmr/m/n/10.95 Déni d'une
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--439
+\T1/cmr/m/n/10.95 ac-tion ef-fec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--439
+\T1/cmr/m/n/10.95 tuée par un
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 439--439
+[]|\T1/cmr/m/n/10.95 Log ho-ro-daté Post-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+[]|\T1/cmr/m/n/10.95 Traçabilité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+\T1/cmr/m/n/10.95 com-plète
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 439--440
+\T1/cmr/m/n/10.95 des ac-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
+[]|\T1/cmr/m/n/10.95 Information
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
+[]|\T1/cmr/m/n/10.95 Fuite de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
+\T1/cmr/m/n/10.95 don-nées per-
+ []
+
+
+Underfull \hbox (badness 4156) in paragraph at lines 441--441
+[]|\T1/cmr/m/n/10.95 AES-256 au re-pos,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
+\T1/cmr/m/n/10.95 pseu-do-ny-mi-sa-tion
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 441--442
+\T1/cmr/m/n/10.95 sibles hors
+ []
+
+
+Underfull \hbox (badness 4403) in paragraph at lines 443--443
+[]|\T1/cmr/m/n/10.95 Saturation de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--443
+\T1/cmr/m/n/10.95 l'API chat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--443
+\T1/cmr/m/n/10.95 bot ou des
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+[]|\T1/cmr/m/n/10.95 429 re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+\T1/cmr/m/n/10.95 tourné
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+[]|\T1/cmr/m/n/10.95 Elevation of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+[]|\T1/cmr/m/n/10.95 Accès à des
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+\T1/cmr/m/n/10.95 res-sources
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+[]|\T1/cmr/m/n/10.95 RBAC 5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+\T1/cmr/m/n/10.95 ni-veaux +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+\T1/cmr/m/n/10.95 va-li-da-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+[]|\T1/cmr/m/n/10.95 Rôle ex-trait du
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+\T1/cmr/m/n/10.95 JWT, midd-le-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+[]|\T1/cmr/m/n/10.95 403 re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+\T1/cmr/m/n/10.95 tourné
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+\T1/cmr/m/n/10.95 si rôle
+ []
+
+chap_05.tex:450: ignored error: Infinite glue shrinkage found in box being spli
+t [68]
+Overfull \hbox (6.12346pt too wide) in paragraph at lines 457--458
+[]|\T1/cmr/bx/n/10.95 Statut| 
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 465--465
+[]|\T1/cmr/m/n/10.95 Authentification MFA (TOTP in-va-
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 465--465
+[]|\T1/cmr/m/n/10.95 Accès re-fusé, mes-sage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
+[]|\T1/cmr/m/n/10.95 Affichage droite-à-
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 475--475
+[]|\T1/cmr/m/n/10.95 Permissions res-treintes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
+[]|\T1/cmr/m/n/10.95 JSON struc-turé re-
+ []
+
+
+Underfull \hbox (badness 5667) in paragraph at lines 477--477
+\T1/cmr/m/n/10.95 tourné, don-nées com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
+[]|\T1/cmr/m/n/10.95 {success :true, de-le-
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 481--481
+[]|\T1/cmr/m/n/10.95 Validation for-mu-laire (champ re-quis
+ []
+
+chap_05.tex:486: ignored error: Infinite glue shrinkage found in box being spli
+t [69]
+Overfull \hbox (3.55405pt too wide) in paragraph at lines 493--494
+[]|\T1/cmr/bx/n/10.95 Résultat| 
+ []
+
+
+Underfull \hbox (badness 2913) in paragraph at lines 505--505
+[]|\T1/cmr/m/n/10.95 Injection XSS dans le chat-bot \TS1/cmr/m/n/10.95 ^^Y
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 511--511
+[]|\T1/cmr/m/n/10.95 Export don-nées sans to-ken \TS1/cmr/m/n/10.95 ^^Y \T1/cmr
+/m/n/10.95 401
+ []
+
+chap_05.tex:518: ignored error: Infinite glue shrinkage found in box being spli
+t [70]
+Underfull \hbox (badness 1127) in paragraph at lines 531--531
+[]|\T1/cmr/m/n/10.95 ERP Odoo + API
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--533
+[]|\T1/cmr/m/n/10.95 Base de don-nées
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--543
+[]|\T1/cmr/m/n/10.95 Enregistrement
+ []
+
+chap_05.tex:548: ignored error: Infinite glue shrinkage found in box being spli
+t [71]) [72] (conclusion.tex
+Overfull \hbox (28.18405pt too wide) in paragraph at lines 13--14
+[]\T1/cmr/bx/n/10.95 Interface web et ar-chi-tec-ture back-end \T1/cmr/m/n/10.9
+5 : dé-ve-lop-pe-ment front-end (HTML5/CSS/JavaScript),
+ []
+
+[73
+
+
+] [74]) [75]
+
+LaTeX Warning: Empty bibliography on input line 58.
+
+(tpl/resume.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 717.00946pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=717.00946pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-44.31825pt
+* \headheight=14.5pt
+* \headsep=14.45377pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=40.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+)
+Package minitoc Info: I0009
+(minitoc)             Listing minitoc auxiliary files. 
+(minitoc)             Creating the main.maf file.
+\openout4 = `main.maf'.
+
+Package minitoc(hints) Info: I0053
+(minitoc(hints))             You have loaded the float package; 
+(minitoc(hints))             please be aware that the minitoc package 
+(minitoc(hints))             facilities can not be used for new types 
+(minitoc(hints))             of floats defined by the float package.
+
+
+Package minitoc(hints) Warning: W0024
+(minitoc(hints))                Some hints have been written 
+(minitoc(hints))                in the main.log file.
+
+[76
+
+
+
+] (main.aux (tpl/cover_page_black.aux))
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 42332 strings out of 467870
+ 863567 string characters out of 5418839
+ 1758932 words of memory out of 5000000
+ 70504 multiletter control sequences out of 15000+600000
+ 657004 words of font info for 98 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 101i,12n,111p,2456b,3869s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Dell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1
+728.pk> <C:\Users\Dell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+tcrm1095.pk> <C:\Users\Dell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
+i600\ecbx1000.pk> <C:\Users\Dell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
+ec/dpi600\ectt1095.pk> <C:\Users\Dell\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\ecxc2488.pk> <C:\Users\Dell\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecxc1095.pk> <C:\Users\Dell\AppData\Local\MiKTeX\fonts/pk/l
+jfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\Dell\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Dell\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\Dell\AppData\Local\Mi
+KTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Dell\AppData\Loc
+al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Dell\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\Dell\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\D
+ell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Us
+ers\Dell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <
+C:\Users\Dell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.
+pk> <C:\Users\Dell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx
+1200.pk> <C:\Users\Dell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
+\ecxc1728.pk> <C:\Users\Dell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+pi600\ecbx0900.pk><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/symbols/msam10.pfb>
+Output written on main.pdf (90 pages, 2579876 bytes).
+PDF statistics:
+ 1131 PDF objects out of 1200 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 15463 words of extra memory for PDF output out of 17280 (max. 10000000)
+

@@ -1,0 +1,28 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {3.}1}Identification des Acteurs Système}{\reset@font\mtcSfont 20}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {3.}2}Extraction des Besoins Globaux}{\reset@font\mtcSfont 21}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.2.3}\else \textLR {3.2.1}\fi }Besoins Fonctionnels}{\reset@font\mtcSSfont 21}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.2.3}\else \textLR {3.2.1}\fi .1}Vue d'ensemble du système}{\reset@font\mtcSSSfont 21}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.2.3}\else \textLR {3.2.1}\fi .2}Gestion des Événements et Authentification}{\reset@font\mtcSSSfont 24}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.2.3}\else \textLR {3.2.1}\fi .3}Déroulement des Réunions Virtuelles}{\reset@font\mtcSSSfont 26}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.2.3}\else \textLR {3.2.1}\fi .4}Intelligence Artificielle — Chatbot et Traduction}{\reset@font\mtcSSSfont 27}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.2.3}\else \textLR {3.2.1}\fi .5}Gestion RGPD et Administration Système}{\reset@font\mtcSSSfont 28}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.2.3}\else \textLR {3.2.2}\fi }Besoins Non Fonctionnels}{\reset@font\mtcSSfont 29}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {3.}3}Diagramme de Cas d'Utilisation Global}{\reset@font\mtcSfont 30}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.3.3}\else \textLR {3.3.1}\fi }Différents Sous-Systèmes}{\reset@font\mtcSSfont 30}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.3.3}\else \textLR {3.3.2}\fi }Conception}{\reset@font\mtcSSfont 30}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {3.}4}Planification du Projet}{\reset@font\mtcSfont 30}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.4.3}\else \textLR {3.4.1}\fi }Backlog du Produit}{\reset@font\mtcSSfont 30}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.4.3}\else \textLR {3.4.2}\fi }Planification des Sprints}{\reset@font\mtcSSfont 30}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {3.}5}Étude Stratégique}{\reset@font\mtcSfont 31}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.5.3}\else \textLR {3.5.1}\fi }Environnement de Réalisation du Projet}{\reset@font\mtcSSfont 31}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.5.3}\else \textLR {3.5.1}\fi .1}Technologies d'Infrastructure}{\reset@font\mtcSSSfont 31}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.5.3}\else \textLR {3.5.1}\fi .2}Chaîne de Développement}{\reset@font\mtcSSSfont 31}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.5.3}\else \textLR {3.5.2}\fi }Environnement Matériel}{\reset@font\mtcSSfont 31}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.5.3}\else \textLR {3.5.3}\fi }Environnement Logiciel}{\reset@font\mtcSSfont 31}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {4.5.3}\else \textLR {3.5.4}\fi }Étude Comparative}{\reset@font\mtcSSfont 32}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {4.5.3}\else \textLR {3.5.4}\fi .1}Comparatif Technologique}{\reset@font\mtcSSSfont 32}{}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Plateformes de Visioconférence}{\reset@font\mtcPfont 32}{}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Progiciels ERP}{\reset@font\mtcPfont 32}{}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Solutions de Chatbot et d'IA Conversationnelle}{\reset@font\mtcPfont 33}{}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Fournisseurs d'Infrastructure Cloud}{\reset@font\mtcPfont 33}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {3.}6}Présentation de l'Architecture Globale du Projet}{\reset@font\mtcSfont 34}{}}
