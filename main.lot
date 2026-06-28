@@ -1,7 +1,7 @@
 \babel@toc {french}{}\relax 
 \babel@toc {french}{}\relax 
 \addvspace {10\p@ }
-\contentsline {xchapter}{Cadre du Projet et Contexte}{4}{}%
+\contentsline {xchapter}{Cadre du projet}{4}{}%
 \contentsline {table}{\numberline {\if@rl \I {1.1}\else \textLR {1.1}\fi }{\ignorespaces Organisation des sprints SCRUM du projet}}{8}{}%
 \addvspace {10\p@ }
 \contentsline {xchapter}{État de l'Art}{11}{}%
@@ -21,7 +21,7 @@
 \contentsline {table}{\numberline {\if@rl \I {10.3}\else \textLR {3.10}\fi }{\ignorespaces Comparatif des solutions ERP}}{32}{}%
 \contentsline {table}{\numberline {\if@rl \I {11.3}\else \textLR {3.11}\fi }{\ignorespaces Comparatif des solutions de chatbot / IA conversationnelle}}{33}{}%
 \contentsline {table}{\numberline {\if@rl \I {12.3}\else \textLR {3.12}\fi }{\ignorespaces Comparatif des fournisseurs d'infrastructure cloud}}{33}{}%
-\contentsline {table}{\numberline {\if@rl \I {13.3}\else \textLR {3.13}\fi }{\ignorespaces Synthèse de la justification des choix techniques}}{35}{}%
+\contentsline {table}{\numberline {\if@rl \I {13.3}\else \textLR {3.13}\fi }{\ignorespaces Synthèse de la justification des choix techniques}}{34}{}%
 \addvspace {10\p@ }
 \contentsline {xchapter}{Conception de l'Architecture}{37}{}%
 \contentsline {table}{\numberline {\if@rl \I {1.4}\else \textLR {4.1}\fi }{\ignorespaces Justification des choix technologiques}}{39}{}%

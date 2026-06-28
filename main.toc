@@ -10,7 +10,7 @@
 \select@language {french}
 \contentsline {chapter}{Introduction Générale}{1}{}%
 \select@language {french}
-\contentsline {chapter}{\numberline {\textLR {1}}\bgroup \beginL \latintext Cadre du Projet et Contexte\endL \egroup }{3}{}%
+\contentsline {chapter}{\numberline {\textLR {1}}\bgroup \beginL \latintext Cadre du projet\endL \egroup }{3}{}%
 \contentsline {section}{\numberline {\filterminitoc {1.}1}Organisme d'Accueil}{4}{}%
 \contentsline {subsection}{\numberline {\if@rl \I {1.1.1}\else \textLR {1.1.1}\fi }Présentation de l'Entreprise}{4}{}%
 \contentsline {subsection}{\numberline {\if@rl \I {2.1.1}\else \textLR {1.1.2}\fi }Domaine d'Activité}{4}{}%
@@ -22,7 +22,11 @@
 \contentsline {subsection}{\numberline {\if@rl \I {5.2.1}\else \textLR {1.2.5}\fi }Solution Proposée}{7}{}%
 \contentsline {section}{\numberline {\filterminitoc {1.}3}Approche et Méthodologie de Gestion de Projet}{7}{}%
 \contentsline {subsection}{\numberline {\if@rl \I {1.3.1}\else \textLR {1.3.1}\fi }Comparaison des Méthodologies Agiles}{7}{}%
-\contentsline {subsection}{\numberline {\if@rl \I {2.3.1}\else \textLR {1.3.2}\fi }Méthodologie Adoptée — SCRUM}{7}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.3.1}\else \textLR {1.3.2}\fi }Méthodologie adoptée}{7}{}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {2.3.1}\else \textLR {1.3.2}\fi .1}Sprint 1 : Analyse et cadrage}{8}{}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {2.3.1}\else \textLR {1.3.2}\fi .2}Sprint 2 : Développement des services critiques}{8}{}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {2.3.1}\else \textLR {1.3.2}\fi .3}Sprint 3 : Intégration de l'intelligence artificielle et de la visioconférence}{8}{}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {2.3.1}\else \textLR {1.3.2}\fi .4}Sprint 4 : Sécurisation, conformité et déploiement}{8}{}%
 \select@language {french}
 \contentsline {chapter}{\numberline {\textLR {2}}\bgroup \beginL \latintext État de l'Art\endL \egroup }{10}{}%
 \contentsline {section}{\numberline {\filterminitoc {2.}1}Concepts Fondamentaux de la Cybersécurité}{11}{}%
@@ -128,6 +132,8 @@
 \contentsline {section}{\numberline {\filterminitoc {5.}7}Déploiement Final}{71}{}%
 \select@language {french}
 \contentsline {chapter}{Conclusion Générale}{73}{}%
+\select@language {french}
+\contentsline {chapter}{Références Bibliographiques}{76}{}%
 \babel@toc {french}{}\relax 
 \babel@toc {english}{}\relax 
 \babel@toc {french}{}\relax 

@@ -1,4 +1,4 @@
-\chapter{Cadre du Projet et Contexte}
+\chapter{Cadre du projet}
 
 \section*{Introduction}
 Ce chapitre présente le cadre général du projet, l'organisme d'accueil, le contexte métier, la problématique identifiée, les objectifs poursuivis et la méthodologie adoptée afin de situer le lecteur avant l'étude technique. Le projet s'inscrit dans une démarche de transformation numérique et de cybersécurisation d'une plateforme événementielle en ligne, répondant à des enjeux réglementaires et opérationnels importants.
@@ -71,7 +71,7 @@ Le projet propose une architecture orientée microservices, déployée sur infra
 \subsection{Comparaison des Méthodologies Agiles}
 Avant de sélectionner la méthodologie de gestion de projet, une comparaison a été effectuée entre plusieurs approches agiles : Waterfall (en cascade), SCRUM, Kanban et Lean. L'analyse a révélé que SCRUM est particulièrement adaptée aux projets de développement logiciel de complexité élevée, aux exigences évolutives et aux délais contraints. SCRUM favorise une livraison incrémentale de valeur, une adaptation continue aux retours des parties prenantes et une transparence maximale sur l'avancement du projet. Par opposition aux approches en cascade, SCRUM permet de détecter et corriger rapidement les écarts par rapport aux objectifs.
 
-\subsection{Méthodologie Adoptée — SCRUM}
+\subsection{Méthodologie adoptée}
 La gestion de ce projet repose sur la méthodologie agile SCRUM, organisée selon les éléments suivants :
 
 \textbf{Organisation en sprints :} Le projet a été structuré en quatre sprints successifs de deux à trois semaines chacun, couvrant l'ensemble du cycle de vie du développement :
@@ -96,6 +96,18 @@ Sprint 4 & Sécurisation complète, conformité RGPD, tests et déploiement sur 
 \caption{Organisation des sprints SCRUM du projet}
 \label{tab:sprints}
 \end{longtable}
+
+\subsubsection{Sprint 1 : Analyse et cadrage}
+Le premier sprint a été consacré à la compréhension du besoin métier, à l'identification des acteurs et des exigences fonctionnelles, ainsi qu'à la définition de l'architecture de référence du système. Il a permis de poser les bases techniques du projet et de préparer les travaux de développement à venir.
+
+\subsubsection{Sprint 2 : Développement des services critiques}
+Le deuxième sprint a porté sur la réalisation des services essentiels à la plateforme, notamment l'authentification, la gestion des événements et l'intégration du module Odoo de gestion des inscriptions et des données associées. Cette phase a permis de livrer les briques fonctionnelles centrales du système.
+
+\subsubsection{Sprint 3 : Intégration de l'intelligence artificielle et de la visioconférence}
+Le troisième sprint a été axé sur l'intégration de l'intelligence artificielle pour la transcription et la traduction, ainsi que sur la mise en place de la visioconférence et des services de communication temps réel. Il a permis d'enrichir la plateforme avec des fonctionnalités d'accessibilité et d'assistance automatisée.
+
+\subsubsection{Sprint 4 : Sécurisation, conformité et déploiement}
+Le quatrième sprint a concentré les efforts sur la sécurisation du système, la conformité RGPD, la validation fonctionnelle et le déploiement sur infrastructure cloud. Cette étape a confirmé la robustesse de la solution et sa capacité à être exploitée en environnement réel.
 
 \textbf{Rôles et cérémonies SCRUM :} Les rôles SCRUM ont été adaptés au contexte académique du projet :
 \begin{itemize}

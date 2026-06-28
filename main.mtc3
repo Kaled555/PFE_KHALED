@@ -9,4 +9,8 @@
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {5.2.1}\else \textLR {1.2.5}\fi }Solution Proposée}{\reset@font\mtcSSfont 7}{}}
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {1.}3}Approche et Méthodologie de Gestion de Projet}{\reset@font\mtcSfont 7}{}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.3.1}\else \textLR {1.3.1}\fi }Comparaison des Méthodologies Agiles}{\reset@font\mtcSSfont 7}{}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.3.1}\else \textLR {1.3.2}\fi }Méthodologie Adoptée — SCRUM}{\reset@font\mtcSSfont 7}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.3.1}\else \textLR {1.3.2}\fi }Méthodologie adoptée}{\reset@font\mtcSSfont 7}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.3.1}\else \textLR {1.3.2}\fi .1}Sprint 1 : Analyse et cadrage}{\reset@font\mtcSSSfont 8}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.3.1}\else \textLR {1.3.2}\fi .2}Sprint 2 : Développement des services critiques}{\reset@font\mtcSSSfont 8}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.3.1}\else \textLR {1.3.2}\fi .3}Sprint 3 : Intégration de l'intelligence artificielle et de la visioconférence}{\reset@font\mtcSSSfont 8}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.3.1}\else \textLR {1.3.2}\fi .4}Sprint 4 : Sécurisation, conformité et déploiement}{\reset@font\mtcSSSfont 8}{}}
