@@ -97,17 +97,61 @@ Sprint 4 & Sécurisation complète, conformité RGPD, tests et déploiement sur 
 \label{tab:sprints}
 \end{longtable}
 
-\subsubsection{Sprint 1 : Analyse et cadrage}
-Le premier sprint a été consacré à la compréhension du besoin métier, à l'identification des acteurs et des exigences fonctionnelles, ainsi qu'à la définition de l'architecture de référence du système. Il a permis de poser les bases techniques du projet et de préparer les travaux de développement à venir.
+\subsubsection{1.3.2.1 Sprint 1 : Analyse et cadrage}
 
-\subsubsection{Sprint 2 : Développement des services critiques}
-Le deuxième sprint a porté sur la réalisation des services essentiels à la plateforme, notamment l'authentification, la gestion des événements et l'intégration du module Odoo de gestion des inscriptions et des données associées. Cette phase a permis de livrer les briques fonctionnelles centrales du système.
+\textbf{Introduction}
 
-\subsubsection{Sprint 3 : Intégration de l'intelligence artificielle et de la visioconférence}
-Le troisième sprint a été axé sur l'intégration de l'intelligence artificielle pour la transcription et la traduction, ainsi que sur la mise en place de la visioconférence et des services de communication temps réel. Il a permis d'enrichir la plateforme avec des fonctionnalités d'accessibilité et d'assistance automatisée.
+Le premier sprint s'inscrit en phase amont du projet, focalisé sur l'analyse des besoins métier et la définition de l'architecture de référence. Il constitue le socle fondateur sur lequel reposent tous les développements ultérieurs.
 
-\subsubsection{Sprint 4 : Sécurisation, conformité et déploiement}
-Le quatrième sprint a concentré les efforts sur la sécurisation du système, la conformité RGPD, la validation fonctionnelle et le déploiement sur infrastructure cloud. Cette étape a confirmé la robustesse de la solution et sa capacité à être exploitée en environnement réel.
+\textbf{Contenu et Livrables}
+
+Le premier sprint a été consacré à la compréhension du besoin métier, à l'identification des acteurs et des exigences fonctionnelles, ainsi qu'à la définition de l'architecture de référence du système. Il a permis de poser les bases techniques du projet et de préparer les travaux de développement à venir. Les livrables incluent : diagrammes UML de cas d'utilisation, architecture détaillée en microservices, spécifications des besoins fonctionnels et non-fonctionnels, et mise en place des environnements de développement (Docker, Git, IDE).
+
+\textbf{Conclusion}
+
+À l'issue du Sprint 1, l'équipe dispose d'une feuille de route technique claire, de tous les éléments de cadrage nécessaires et d'une infrastructure de développement opérationnelle. Les fondations du projet sont solidifiées et valident la faisabilité technique de la solution proposée.
+
+\subsubsection{1.3.2.2 Sprint 2 : Développement des services critiques}
+
+\textbf{Introduction}
+
+Le deuxième sprint marque le démarrage effectif du développement, avec la priorité donnée aux services d'authentification et de gestion des événements — briques critiques sans lesquelles aucune autre fonctionnalité n'a de sens.
+
+\textbf{Contenu et Livrables}
+
+Le deuxième sprint a porté sur la réalisation des services essentiels à la plateforme, notamment l'authentification, la gestion des événements et l'intégration du module Odoo de gestion des inscriptions et des données associées. Cette phase a permis de livrer les briques fonctionnelles centrales du système. Les livrables incluent : service d'authentification avec MFA et JWT, module Odoo \texttt{ai\_healthcare\_event}, API de gestion des événements, et tests d'intégration des services avec Odoo.
+
+\textbf{Conclusion}
+
+Au terme du Sprint 2, la plateforme dispose d'une couche d'authentification sécurisée et d'une gestion des événements fonctionnelle, constituant le cœur de la plateforme opérationnelle. Le socle applicatif est désormais prêt pour accueillir les services IA.
+
+\subsubsection{1.3.2.3 Sprint 3 : Intégration de l'intelligence artificielle et de la visioconférence}
+
+\textbf{Introduction}
+
+Le troisième sprint concentre les efforts sur l'enrichissement fonctionnel de la plateforme via l'intelligence artificielle et la communication synchrone temps réel, éléments différenciants majeurs de la solution.
+
+\textbf{Contenu et Livrables}
+
+Le troisième sprint a été axé sur l'intégration de l'intelligence artificielle pour la transcription et la traduction, ainsi que sur la mise en place de la visioconférence et des services de communication temps réel. Il a permis d'enrichir la plateforme avec des fonctionnalités d'accessibilité et d'assistance automatisée. Les livrables incluent : service de transcription (Whisper STT), service de traduction multilingue (LLM local), intégration de Jitsi Meet avec tokens JWT, API de chatbot, et tests des services IA en environnement de développement.
+
+\textbf{Conclusion}
+
+À l'issue du Sprint 3, la plateforme intègre l'ensemble des capacités IA initialement envisagées, avec une visioconférence sécurisée et des services d'accessibilité multilingues pleinement opérationnels. La proposition de valeur centrale du projet — accessibilité et intelligence artificielle — est alors réalisée et testable.
+
+\subsubsection{1.3.2.4 Sprint 4 : Sécurisation, conformité et déploiement}
+
+\textbf{Introduction}
+
+Le quatrième sprint finalise le projet en consolidant la sécurité, en validant la conformité réglementaire et en préparant le passage en production. Il s'agit de la phase de « hardening » et de validation finale.
+
+\textbf{Contenu et Livrables}
+
+Le quatrième sprint a concentré les efforts sur la sécurisation du système, la conformité RGPD, la validation fonctionnelle et le déploiement sur infrastructure cloud. Cette étape a confirmé la robustesse de la solution et sa capacité à être exploitée en environnement réel. Les livrables incluent : routes et endpoints RGPD (export, suppression, consentement), pipeline CI/CD complète sur GitHub Actions, audit de sécurité et tests de pénétration, déploiement sur OVHcloud, rapport final, et documentation opérationnelle.
+
+\textbf{Conclusion}
+
+Au terme du Sprint 4, la solution est production-ready : pleinement sécurisée, conforme RGPD, testée et déployée sur infrastructure cloud française. Le projet atteint son état final opérationnel, avec tous les éléments requis pour une exploitation fiable et réglementairement conforme.
 
 \textbf{Rôles et cérémonies SCRUM :} Les rôles SCRUM ont été adaptés au contexte académique du projet :
 \begin{itemize}
